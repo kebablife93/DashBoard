@@ -44,7 +44,7 @@ Pour avoir une vision de l'évolution globale dans le temps, il y a un graphique
 ![](images/evolution.PNG)
 
 
-
+Les differents graphiques présentés dans le dashboard sont tous bien évidemment intéracifs.
 
 USER GUIDE :
 
@@ -54,7 +54,7 @@ Dash : pip install dash
 Plotly-express : pip install plotly-express
 Plotly : pip install plotly
 Panda : pip install pandas
-Ensuite pour lancer le programme sur l'invite de commande c'est 
+Ensuite pour lancer le programme, il faut aller sur l'invite de commande, il faut aller au chemin du programme Data_01.py et ensuite en écrivant tout simplement "Data_01.py".
 
 
 
