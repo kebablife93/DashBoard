@@ -5,7 +5,15 @@ PROJET DASHBOARD : Mariam AMRAOUI, Bilal CHAHBIA
 
 
 Rapport d'analyse:
-Concernant le sujet choisis, nous avonbs choisis l'étude du COVID-19 dans le monde entre le 22 janvier 2020 et le 29 novembre 2020. 
+Concernant le sujet choisis, nous avonbs choisis l'étude du COVID-19 dans le monde entre le 22 janvier 2020 et le 2 décembre 2020. 
+Les données ont été receuillis sur Kaggle.com, une plateforme web organisant des compétitions en science des données, une aubaine pour ce projet qui nécessite un jeu donnée.
+Voici le lien des données que nos avons choisis : https://www.kaggle.com/junyingsg/covid19-dataset, il y a plusieurs jeu de données et nous avons choisi le 
+"covid_19_data_cleaned.csv". Concernant les données utilisées, nous n'avons réaliser aucun de traitement sur les données, aucune modification sur ces dernières.
+Elles sont organisées en 9 catégories "Date,Province/State,Country,Lat,Long,Confirmed,Recovered,Deaths,Active" :
+
+![](images/données.PNG)
+
+
 
 ![](images/carte_repartition_des_cas_confirmes_.PNG)
 
@@ -23,13 +31,9 @@ Les États-Unis ont également le plus de cas confirmé et les cas décédés da
 
 ![](images/Nombre_USA_Morts.PNG)
 
+On a aussi vu qu'en fin d'année 2020, sur tout les cas qu'il y a eu dans le monde, il y en as eu 31% qui sont morts, soit 1 personne sur 3 qui est morte:
 
-
-
-
-On a aussi vu qu'en fin d'année 2020, sur tout les cas qu'il y a eu dans le monde, il y en as eu 31% qui sont morts, soit 1 personne sur 3 qui est morte.
-
-
+![](images/Repartition_covid.PNG)
 
 
 
