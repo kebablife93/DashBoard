@@ -14,6 +14,7 @@ Elles sont organisées en 9 catégories "Date,Province/State,Country,Lat,Long,Co
 ![](images/données.PNG)
 
 
+Nous avons une représentation géographiques de la répartition des cas confirmés dans le monde mais également des cas décédés dans le monde:
 
 ![](images/carte_repartition_des_cas_confirmes_.PNG)
 
@@ -34,6 +35,12 @@ Les États-Unis ont également le plus de cas confirmé et les cas décédés da
 On a aussi vu qu'en fin d'année 2020, sur tout les cas qu'il y a eu dans le monde, il y en as eu 31% qui sont morts, soit 1 personne sur 3 qui est morte:
 
 ![](images/Repartition_covid.PNG)
+
+
+
+Pour avoir une vision de l'évolution globale dans le temps, il y a un graphique animé qui permet de voir petit à petit l'évolution des cas confirmés, il faut appuyer sur le bouton play pour l'activer :
+
+![](images/evolution.PNG)
 
 
 
