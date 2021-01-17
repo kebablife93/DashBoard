@@ -6,7 +6,7 @@ PROJET DASHBOARD : Mariam AMRAOUI, Bilal CHAHBIA
 
 Rapport d'analyse:
 
-Concernant le sujet choisis, nous avonbs choisis l'étude du COVID-19 dans le monde entre le 22 janvier 2020 et le 2 décembre 2020. 
+Concernant le sujet choisis, nous avons choisis l'étude du COVID-19 dans le monde entre le 22 janvier 2020 et le 2 décembre 2020. 
 Les données ont été receuillis sur Kaggle.com, une plateforme web organisant des compétitions en science des données, une aubaine pour ce projet qui nécessite un jeu donnée.
 Voici le lien des données que nos avons choisis : https://www.kaggle.com/junyingsg/covid19-dataset, il y a plusieurs jeu de données et nous avons choisi le 
 "covid_19_data_cleaned.csv". Concernant les données utilisées, nous n'avons réaliser aucun de traitement sur les données, aucune modification sur ces dernières.
