@@ -6,9 +6,11 @@ PROJET DASHBOARD : Mariam AMRAOUI, Bilal CHAHBIA
 
 Rapport d'analyse:
 Concernant le sujet choisis, nous avonbs choisis l'étude du COVID-19 dans le monde entre le 22 janvier 2020 et le 29 novembre 2020.
+![](images/carte_repartition_des_cas_confirmes_.PNG)
+
 Nous voulions comparer l'évolution des cas confirmés dans le monde pour chaque pays, et quel était le pays qui avait la plus grande progression.
 
-![](images/carte_repartition_des_cas_confirmes_.png)
+
 
 le résultat que nous avons obtenu était que les État-Unis était le pays qui avait la plus rapide ascension dans le nombre de cas confirmés.
 On a aussi vu qu'en fin d'année 2020, sur tout les cas qu'il y a eu dans le monde, il y en as eu 31% qui sont morts, soit 1 personne sur 3 qui est morte.
