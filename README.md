@@ -5,6 +5,7 @@ PROJET DASHBOARD : Mariam AMRAOUI, Bilal CHAHBIA
 
 
 Rapport d'analyse:
+
 Concernant le sujet choisis, nous avonbs choisis l'étude du COVID-19 dans le monde entre le 22 janvier 2020 et le 2 décembre 2020. 
 Les données ont été receuillis sur Kaggle.com, une plateforme web organisant des compétitions en science des données, une aubaine pour ce projet qui nécessite un jeu donnée.
 Voici le lien des données que nos avons choisis : https://www.kaggle.com/junyingsg/covid19-dataset, il y a plusieurs jeu de données et nous avons choisi le 
@@ -46,20 +47,22 @@ Pour avoir une vision de l'évolution globale dans le temps, il y a un graphique
 
 
 USER GUIDE :
-	Pour lancer le programme, on lance le fichier Data_01.py, qui va ouvrir le dashborad dans une page HTML  à l'URL http://127.0.0.1:8050/
-	Néanmois, pour lancer le programme, certains package sont nécéssaires:
-	Dash : pip install dash
-	Plotly-express : pip install plotly-express
-	Plotly : pip install plotly
-	Panda : pip install pandas
-	Ensuite pour lancer le programme sur l'invite de commande c'est 
+
+Pour lancer le programme, on lance le fichier Data_01.py, qui va ouvrir le dashborad dans une page HTML  à l'URL http://127.0.0.1:8050/
+Néanmois, pour lancer le programme, certains package sont nécéssaires:
+Dash : pip install dash
+Plotly-express : pip install plotly-express
+Plotly : pip install plotly
+Panda : pip install pandas
+Ensuite pour lancer le programme sur l'invite de commande c'est 
 
 
 
 DEVELOPPER GUIDE :
-	Au niveau du code, il y a deux parties distinctes, une partie où on déclare des nouvelles figures pour le dashboard,
-	et une autre où l'on crée le dashboard et on y rajoute les figures.
-	Pour rajouter des éléments au dashboard il de déclarer de nouvelles figures dans la première parties du code, et de les 
-	rajouter par la suite dans la partie de la déclaration du dashboard.
+
+Au niveau du code, il y a deux parties distinctes, une partie où on déclare des nouvelles figures pour le dashboard,
+et une autre où l'on crée le dashboard et on y rajoute les figures.
+Pour rajouter des éléments au dashboard il de déclarer de nouvelles figures dans la première parties du code, et de les 
+rajouter par la suite dans la partie de la déclaration du dashboard.
 	
 
