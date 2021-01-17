@@ -8,7 +8,7 @@ Rapport d'analyse:
 Concernant le sujet choisis, nous avonbs choisis l'étude du COVID-19 dans le monde entre le 22 janvier 2020 et le 29 novembre 2020.
 Nous voulions comparer l'évolution des cas confirmés dans le monde pour chaque pays, et quel était le pays qui avait la plus grande progression.
 
-https://github.com/kebablife93/DashBoard/issues/1#issue-787746187
+❮img src="images/carte_repartition_des_cas_confirmes_.png" ❯
 
 
 le résultat que nous avons obtenu était que les État-Unis était le pays qui avait la plus rapide ascension dans le nombre de cas confirmés.
