@@ -50,10 +50,10 @@ USER GUIDE :
 
 Pour lancer le programme, on lance le fichier Data_01.py, qui va ouvrir le dashboard dans une page HTML à l'URL http://127.0.0.1:8050/
 Néanmoins, pour lancer le programme, certains packages sont nécéssaires:
-Dash : pip install dash
-Plotly-express : pip install plotly-express
-Plotly : pip install plotly
-Panda : pip install pandas
+Dash : pip install dash,
+Plotly-express : pip install plotly-express,
+Plotly : pip install plotly,
+Panda : pip install pandas.
 Ensuite pour lancer le programme, il faut aller sur l'invite de commande, au chemin du programme Data_01.py et ensuite écrire tout simplement "Data_01.py".
 
 
