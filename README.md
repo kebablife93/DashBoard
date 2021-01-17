@@ -9,23 +9,14 @@ Concernant le sujet choisis, nous avonbs choisis l'étude du COVID-19 dans le mo
 ![](images/carte_repartition_des_cas_confirmes_.PNG)
 
 Nous voulions comparer l'évolution des cas confirmés dans le monde pour chaque pays, et quel était le pays qui a eu la plus grande progression.
-Le résultat que nous avons obtenu était que les États-Unis était le pays qui avait la plus rapide ascension dans le nombre de cas confirmés.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Le résultat que nous avons obtenu était que les États-Unis était le pays qui avait la plus rapide ascension dans le nombre de cas confirmés comparé aux autres pays.
+En effet si on ne sélectionne que les États-Unis dans le graphiques on obtiens ce résultat:
+![](images/cas_confirme_USA.PNG)
+![](images/Cas_USA_morts.PNG)
 
 Les États-Unis ont également le plus de cas confirmé et les cas décédés dans le monde.
+![](images/Nombre_USA_Confirmé.PNG)
+![](images/Nombre_USA_Morts.PNG)
 
 
 
